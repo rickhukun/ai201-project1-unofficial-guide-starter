@@ -9,10 +9,7 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+Student experiences and opinions about UCLA dining halls — what the food is really like, meal plan value, wait times, dietary accommodations, and which halls are worth the cost. Official UCLA dining websites list menus and hours, but don't capture honest student perspectives on food quality, value, and student culture around each hall.
 
 ---
 
@@ -24,16 +21,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | r/UCLA Dining Discussions | Reddit subreddit | https://www.reddit.com/r/ucla/search/?q=dining |
+| 2 | r/UCLA Meal Plan Threads | Reddit subreddit | https://www.reddit.com/r/ucla/search/?q=meal+plan |
+| 3 | FEAST at Rieber Google Reviews | Google Reviews | https://www.google.com/maps/place/FEAST+at+Rieber |
+| 4 | De Neve Dining Hall Google Reviews | Google Reviews | https://www.google.com/maps/place/De+Neve+Dining+Hall |
+| 5 | Bruin Plate Residential Restaurant | Google Reviews | https://www.google.com/maps/place/Bruin+Plate+Residential+Restaurant |
+| 6 | Epicuria at Ackerman Google Reviews | Google Reviews | https://www.google.com/maps/place/Epicuria+at+Ackerman |
+| 7 | Café 1919 Google Reviews | Google Reviews | https://www.google.com/maps/place/Café+1919 |
+| 8 | r/college UCLA Dining | Reddit subreddit | https://www.reddit.com/r/college/search/?q=UCLA+dining |
+| 9 | r/UCLAhousing | Reddit subreddit | https://www.reddit.com/r/uclahousing |
+| 10 | YouTube UCLA Dining Reviews | YouTube videos | https://www.youtube.com/search?q=UCLA+dining+hall+review |
 
 ---
 

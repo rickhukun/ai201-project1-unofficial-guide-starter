@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "total_chunks": 8,
+    "chunk_size_tokens": 350,
+    "overlap_tokens": 50,
+    "chunking_method": "fixed-size token-based sliding window"
+  },
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "source": "https://www.reddit.com/r/ucla/search/?q=dining",
+      "chunk_order": 0,
+      "text": "FEAST is honestly one of the best dining halls. Fresh ingredients, great Asian fusion options. The food quality is consistent. However, wait times during lunch can be brutal\u201430+ minutes sometimes. The meal plan might be worth it just for FEAST, but De Neve is also solid. Overall, I'd say FEAST edges out other halls.",
+      "token_count": 72,
+      "original_doc_length": 317,
+      "doc_index": 0
+    },
+    {
+      "chunk_id": 1,
+      "source": "https://www.google.com/maps/place/De+Neve+Dining+Hall",
+      "chunk_order": 0,
+      "text": "De Neve offers pan-Asian cuisine. The ingredients feel fresher than some other halls. Some inconsistency in quality\u2014one day great, next day mediocre. Good variety for vegetarians. Not the fastest service. Acceptable for a dining hall.",
+      "token_count": 49,
+      "original_doc_length": 234,
+      "doc_index": 1
+    },
+    {
+      "chunk_id": 2,
+      "source": "https://www.reddit.com/r/ucla/search/?q=meal+plan",
+      "chunk_order": 0,
+      "text": "Is the UCLA meal plan worth it? Mixed opinions. FEAST is great but expensive per swipe. De Neve is better value. Honestly, eating off-campus is often cheaper. If you're on campus a lot, maybe worth it. Otherwise, skip the meal plan.",
+      "token_count": 55,
+      "original_doc_length": 232,
+      "doc_index": 2
+    },
+    {
+      "chunk_id": 3,
+      "source": "https://www.google.com/maps/place/Caf\u00e9+1919",
+      "chunk_order": 0,
+      "text": "Caf\u00e9 1919 is quick for grab-and-go coffee and snacks. Best for speed, not quality. Lines move fast. Good if you're in a rush between classes. Not worth a full meal swipe, but convenient for morning coffee.",
+      "token_count": 50,
+      "original_doc_length": 205,
+      "doc_index": 3
+    },
+    {
+      "chunk_id": 4,
+      "source": "https://www.google.com/maps/place/Epicuria+at+Ackerman",
+      "chunk_order": 0,
+      "text": "Epicuria at Ackerman has Mediterranean options. Decent salads and wraps. Less crowded than FEAST or De Neve. Quality is okay, nothing special. Good for a quieter dining experience.",
+      "token_count": 40,
+      "original_doc_length": 180,
+      "doc_index": 4
+    },
+    {
+      "chunk_id": 5,
+      "source": "https://www.google.com/maps/place/Bruin+Plate+Residential+Restaurant",
+      "chunk_order": 0,
+      "text": "Bruin Plate is a residential restaurant. More expensive than regular dining halls. Better food quality but you pay extra. Only worth it if you have extra swipes or cash. Not recommended for regular meals.",
+      "token_count": 41,
+      "original_doc_length": 204,
+      "doc_index": 5
+    },
+    {
+      "chunk_id": 6,
+      "source": "https://www.reddit.com/r/ucla/search/?q=dining",
+      "chunk_order": 0,
+      "text": "The dining hall menu system crashed last week and food allergen info was totally wrong. Had a student with peanut allergy nearly eat contaminated food. The allergen tracking is unreliable. They need to fix this ASAP. Very dangerous.",
+      "token_count": 45,
+      "original_doc_length": 232,
+      "doc_index": 6
+    },
+    {
+      "chunk_id": 7,
+      "source": "https://www.reddit.com/r/uclahousing",
+      "chunk_order": 0,
+      "text": "FEAST (FEAST) is closest to my dorm. Convenient location is huge. The food is pretty good, social atmosphere is nice. Other halls require a walk. For Rieber residents, FEAST is ideal.",
+      "token_count": 44,
+      "original_doc_length": 183,
+      "doc_index": 7
+    }
+  ]
+}
